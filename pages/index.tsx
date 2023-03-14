@@ -11,7 +11,10 @@ const Home: NextPage = () => {
     <div className="flex min-h-screen flex-col items-center justify-center py-2">
       <Head>
         <title>Photography App</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link
+          rel="icon"
+          href="https://i.pinimg.com/236x/68/47/ee/6847ee1a9ed3ea26d5552d3147edc6a5.jpg"
+        />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link
