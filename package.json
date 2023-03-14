@@ -1,14 +1,20 @@
 {
+  "homepage": "https://github.com/kingisaac-coder/Captur.git",
   "private": true,
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
   },
   "dependencies": {
+    "gh-pages": "^5.0.0",
+    "netlify-cli": "^13.0.1",
     "next": "latest",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-icons": "^4.7.1"
   },
   "devDependencies": {
     "@types/node": "18.11.3",

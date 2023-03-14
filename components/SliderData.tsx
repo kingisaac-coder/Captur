@@ -1,0 +1,26 @@
+export const SliderData = [
+  {
+    image:
+      "https://images.unsplash.com/photo-1506241537529-eefea1fbe44d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHBob3RvZ3JhcGh5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+  },
+  {
+    image:
+      "https://images.unsplash.com/photo-1502982720700-bfff97f2ecac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8cGhvdG9ncmFwaHl8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60",
+  },
+  {
+    image:
+      "https://images.unsplash.com/photo-1548502499-ef49e8cf98d4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHBob3RvZ3JhcGh5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+  },
+  {
+    image:
+      "https://images.unsplash.com/photo-1554048612-b6a482bc67e5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cGhvdG9ncmFwaHl8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60",
+  },
+  {
+    image:
+      "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHBob3RvZ3JhcGh5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+  },
+  {
+    image:
+      "https://media.istockphoto.com/id/618066222/photo/camera-capturing-a-forest.jpg?b=1&s=170667a&w=0&k=20&c=ZvaijnZ8Gbl6UjYHsCqNGEcekAWIVeVNKaVKZ5CtuNI=",
+  },
+];
